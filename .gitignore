@@ -3,11 +3,11 @@ __pycache__/
 *.py[cod]
 *$py.class
 
-# 가상환경 (나중에 만들 예정)
+# 가상환경
 venv/
 env/
 
-# 데이터 관련 (가장 중요!)
+# 데이터 관련
 data/raw/
 *.csv
 *.mat
